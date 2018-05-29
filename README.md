@@ -2,7 +2,7 @@
 
 =========================================== 
 
-* Kakao Login
+** Kakao Login
 
 1. Controller
 - KakaoLoginController.java
@@ -17,7 +17,7 @@
 - SignonForm.jsp
 
 
-* Kakao Pay
+** Kakao Pay
 
 1. Controller
 - KakaoPayController.java
@@ -31,7 +31,7 @@
 3. view(jsp)
 - Checkout.jsp
 
-* 추가 jar 파일
+** 추가 jar 파일
 - jackson-all.1.9.9.jar
 - json_simple-1.1.jar
 - javax.json-api-1.0.jar
